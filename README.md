@@ -19,6 +19,9 @@
   <a href="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000">
     <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" alt="Version" height="18">
   </a>
+  <a href="https://www.linkedin.com/in/joseph-fabricio-vergel-becerra/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://twitter.com/joefavergel" target="_blank">
     <img alt="Twitter: joefavergel" src="https://img.shields.io/twitter/follow/joefavergel.svg?style=social"/>
   </a>
