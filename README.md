@@ -72,7 +72,7 @@ $ conda create -n py312 python=3.12
 $ conda activate py312
 ```
 
-Now, you can managament the project dependencies with `Pipenv`. To create de virtual environment and install all dependencies follow:
+Now, you can managament the project dependencies with `uv`. To create de virtual environment and install all dependencies follow:
 
 ```sh
 # Install uv using pip
